@@ -29,7 +29,7 @@ void wordle_game()
     //GAME BEGINS\\
 
     cout << "Please enter your guess: ";
-	cout << "FOR TESTING PURPOSES, THE WORDLE IS: " << chosen << endl;              //for testing purposes, the wordle is printed to the console so that it can be guessed correctly DELETE THIS AFTER TESTING IS DONE
+	//cout << "FOR TESTING PURPOSES, THE WORDLE IS: " << chosen << endl;              //for testing purposes, the wordle is printed to the console so that it can be guessed correctly DELETE THIS AFTER TESTING IS DONE
  
     
  //attempt one
